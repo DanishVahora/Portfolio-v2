@@ -142,11 +142,11 @@ const ContactMe: React.FC = () => {
                                     text: 'danishvhora786@gmail.com',
                                     href: 'mailto:danishvhora786@gmail.com'
                                 },
-                                { 
-                                    icon: <Phone size={20} className="sm:w-6 sm:h-6" />, 
-                                    text: '+91 8200528373',
-                                    href: 'tel:+918200528373'
-                                },
+                                // { 
+                                //     icon: <Phone size={20} className="sm:w-6 sm:h-6" />, 
+                                //     text: '+91 8200528373',
+                                //     href: 'tel:+918200528373'
+                                // },
                                 { 
                                     icon: <MapPin size={20} className="sm:w-6 sm:h-6" />, 
                                     text: 'Anand, Gujarat, India',
