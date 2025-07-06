@@ -5,7 +5,6 @@ import confetti from 'canvas-confetti';
 import {
     MapPin,
     Mail,
-    Phone,
     Github,
     Linkedin,
     Instagram,
